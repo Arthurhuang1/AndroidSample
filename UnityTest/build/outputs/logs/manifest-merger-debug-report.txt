@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:70-101
+		INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:149-174
+		INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:102-148
+	xmlns:android
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:175-198
+		INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:2:199-239
+supports-screens
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:4:3-13:17
+	android:label
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:4:92-124
+	android:icon
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:4:58-91
+	android:banner
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:4:147-184
+	android:theme
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:4:125-146
+activity#com.test.unity.sample.UnityPlayerActivity
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:5:5-8:16
+	android:screenOrientation
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:5:48-86
+	android:label
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:5:87-118
+	android:hardwareAccelerated
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:5:301-336
+	android:configChanges
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:5:119-300
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:5:337-393
+meta-data#unityplayer.UnityActivity
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:7:7-82
+	android:value
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:7:59-79
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:7:18-58
+meta-data#unity.build-id
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:9:5-101
+	android:value
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:9:46-98
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:9:16-45
+meta-data#unity.splash-mode
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:10:5-69
+	android:value
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:10:49-66
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:10:16-48
+meta-data#unity.splash-enable
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:11:5-74
+	android:value
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:11:51-71
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:11:16-50
+meta-data#android.max_aspect
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:12:5-72
+	android:value
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:12:50-69
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:12:16-49
+uses-sdk
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:14:3-72
+INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:14:3-72
+INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:14:3-72
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:14:40-69
+		INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:14:13-39
+uses-feature#0x00020000
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:15:3-52
+	android:glEsVersion
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:15:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:16:3-88
+	android:required
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:16:61-85
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:16:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:17:3-99
+	android:required
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:17:72-96
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:17:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:18:3-108
+	android:required
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:18:81-105
+	android:name
+		ADDED from D:\AndroidStudioWorkspace\AndroidSample\UnityTest\src\main\AndroidManifest.xml:18:17-80
